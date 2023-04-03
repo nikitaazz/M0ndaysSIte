@@ -3,9 +3,10 @@ p {
 }
 body{
     padding: 30px;
-    background:url(../Еж-Микита-Носенко1.png)0 0 no-repeat ;
+    background:rgba(82, 0, 115, 0.5)url(../Еж-Микита-Носенко1.png)50% 30% no-repeat fixed;
 }
 .block{
+    background-color: #000;
     height: 300px;
     border-radius: 15px;
     box-shadow: 0 0 10px #000;
